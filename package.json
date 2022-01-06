@@ -1,0 +1,19 @@
+{
+  "name": "hemant",
+  "version": "1.0.0",
+  "description": "Website of hemant's project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CodeWithShikhar",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.7.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.8"
+  }
+}
